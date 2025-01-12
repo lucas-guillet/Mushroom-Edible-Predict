@@ -1,3 +1,3 @@
-# Mushroom-Edible-Predict
+# Stroke-Prediction
 
 Hello world
