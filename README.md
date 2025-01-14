@@ -11,3 +11,6 @@ This dataset is large and has the particularity that the target variable used in
 - Develop a linear and random tree model to predict the more accurately possible risks of strokes in persons.
 - Data visualization techniques to show patterns in the data.
 
+# Install Dependencies
+
+pip install tqdm
